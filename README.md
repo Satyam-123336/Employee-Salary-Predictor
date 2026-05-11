@@ -126,3 +126,6 @@ You can use `dataset.csv` as a reference for column format and values.
 - Add model evaluation metrics section in README
 - Deploy on Streamlit Community Cloud or Azure App Service
 
+## License
+
+This project currently has no explicit license file. Add a `LICENSE` file if you plan to publish or reuse it publicly.
